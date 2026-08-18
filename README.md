@@ -18,34 +18,35 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 - 💬 Pergunte-me sobre: [Sua especialidade]
 - 📫 Como me achar: [Email ou rede social]
 
----
-### 📊 Estatísticas da Máquina
+## 📊 Estatísticas da Máquina
 
+```javascript
 const eu = { 
     nome: "🧑‍💻 Leonardo da Silva Souza", 
     apelido: "🏷️ LeoDev", 
     idade: "📅 25 anos | 5 anos de código", 
     localizacao: "📍 São Paulo, Brasil 🇧🇷", 
-    code: [
+    code: [ 
         "💻 JavaScript", 
         "🐍 Python", 
         "🟢 Node.js", 
         "📘 TypeScript", 
-        "⚛️ React"
+        "⚛️ React" 
     ], 
-    ferramentas: [
+    ferramentas: [ 
         "⚛️ React", 
         "🟢 Node.js", 
         "🐳 Docker", 
         "📦 Git", 
         "✏️ VS Code", 
-        "🐘 PostgreSQL"
+        "🐘 PostgreSQL" 
     ], 
     desafioAtual: "☕ Fazer o café durar até o fim do dia", 
     foco: "🎯 Migrar de júnior para pleno ainda em 2026", 
-    diversao: [
+    diversao: [ 
         "♟️ Xadrez", 
         "🎸 Violão", 
-        "📺 Séries de ficção científica"
+        "📺 Séries de ficção científica" 
     ] 
 };
+```
