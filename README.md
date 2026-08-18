@@ -20,12 +20,22 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 
 ### 📊 Estatísticas da Máquina
 
-```javascript
 const eu = {
-    nome: "Seu Nome",
-    idade: "XX anos de idade ou XX anos de experiência",
-    localizacao: "Sua Cidade/País",
-    code: ["JavaScript", "Python", "Java", "etc"],
-    ferramentas: ["React", "Node", "Docker", "etc"],
-    desafioAtual: "Fazer o café durar até o fim do dia"
+    nome: "Leonardo da Silva Souza",
+    apelido: "LeoDev",
+    idade: "25 anos de idade | 5 anos de experiência",
+    localizacao: "São Paulo, Brasil",
+    code: ["JavaScript", "Python", "Node.js", "TypeScript", "React"],
+    ferramentas: ["React", "Node.js", "Docker", "Git", "VS Code", "PostgreSQL"],
+    desafioAtual: "Fazer o café durar até o fim do dia",
+    hobbies: ["Jogar xadrez", "Tocar violão", "Explorar novas tecnologias"],
+    filosofias: [
+        "Clean code é sobre pessoas, não sobre máquinas",
+        "Se funciona, não mexe (mas eu vou mexer)"
+    ],
+    objetivos2026: [
+        "Contribuir para um projeto open-source",
+        "Subir meu primeiro app para produção",
+        "Não esquecer de commitar antes do café"
+    ]
 };
