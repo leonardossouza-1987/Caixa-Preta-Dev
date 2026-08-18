@@ -25,7 +25,7 @@ const eu = {
     nome: "🧑‍💻 Leonardo da Silva Souza", 
     apelido: "🏷️ LeoDev", 
     idade: "📅 25 anos | 5 anos de código", 
-    localizacao: "📍 São Paulo, Brasil 🇧🇷", 
+    localizacao: "📍 Cruzilia Brasil 🇧🇷", 
     code: [ 
         "💻 JavaScript", 
         "🐍 Python", 
