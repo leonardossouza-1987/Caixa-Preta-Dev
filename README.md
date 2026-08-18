@@ -25,9 +25,26 @@ const eu = {
     apelido: "🏷️ LeoDev", 
     idade: "📅 25 anos | 5 anos de código", 
     localizacao: "📍 São Paulo, Brasil 🇧🇷", 
-    code: ["💻 JavaScript", "🐍 Python", "🟢 Node.js", "📘 TypeScript", "⚛️ React"], 
-    ferramentas: ["⚛️ React", "🟢 Node.js", "🐳 Docker", "📦 Git", "✏️ VS Code", "🐘 PostgreSQL"], 
+    code: [
+        "💻 JavaScript", 
+        "🐍 Python", 
+        "🟢 Node.js", 
+        "📘 TypeScript", 
+        "⚛️ React"
+    ], 
+    ferramentas: [
+        "⚛️ React", 
+        "🟢 Node.js", 
+        "🐳 Docker", 
+        "📦 Git", 
+        "✏️ VS Code", 
+        "🐘 PostgreSQL"
+    ], 
     desafioAtual: "☕ Fazer o café durar até o fim do dia", 
     foco: "🎯 Migrar de júnior para pleno ainda em 2026", 
-    diversao: ["♟️ Xadrez", "🎸 Violão", "📺 Séries de ficção científica"] 
+    diversao: [
+        "♟️ Xadrez", 
+        "🎸 Violão", 
+        "📺 Séries de ficção científica"
+    ] 
 };
