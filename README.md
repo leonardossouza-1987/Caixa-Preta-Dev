@@ -20,6 +20,7 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 
 ### 📊 Estatísticas da Máquina
 
+---
 const eu = { 
     nome: "🧑‍💻 Leonardo da Silva Souza", 
     apelido: "🏷️ LeoDev", 
