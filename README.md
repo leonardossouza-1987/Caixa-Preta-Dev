@@ -21,21 +21,13 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 ### 📊 Estatísticas da Máquina
 
 const eu = {
-    nome: "Leonardo da Silva Souza",
-    apelido: "LeoDev",
-    idade: "25 anos de idade | 5 anos de experiência",
-    localizacao: "São Paulo, Brasil",
-    code: ["JavaScript", "Python", "Node.js", "TypeScript", "React"],
-    ferramentas: ["React", "Node.js", "Docker", "Git", "VS Code", "PostgreSQL"],
-    desafioAtual: "Fazer o café durar até o fim do dia",
-    hobbies: ["Jogar xadrez", "Tocar violão", "Explorar novas tecnologias"],
-    filosofias: [
-        "Clean code é sobre pessoas, não sobre máquinas",
-        "Se funciona, não mexe (mas eu vou mexer)"
-    ],
-    objetivos2026: [
-        "Contribuir para um projeto open-source",
-        "Subir meu primeiro app para produção",
-        "Não esquecer de commitar antes do café"
-    ]
+    🧑‍💻 nome: "Leonardo da Silva Souza",
+    🏷️ apelido: "LeoDev",
+    📅 idade: "25 anos | 5 anos de código",
+    📍 localizacao: "São Paulo, Brasil 🇧🇷",
+    💻 code: ["JavaScript", "Python", "Node.js", "TypeScript", "React"],
+    🛠️ ferramentas: ["React", "Node.js", "Docker", "Git", "VS Code", "PostgreSQL"],
+    ☕ desafioAtual: "Fazer o café durar até o fim do dia",
+    🎯 foco: "Migrar de júnior para pleno ainda em 2026",
+    🎮 diversao: ["Xadrez", "Violão", "Séries de ficção científica"]
 };
