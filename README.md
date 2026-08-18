@@ -20,14 +20,14 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 
 ### 📊 Estatísticas da Máquina
 
-const eu = {
-    nome: "🧑‍💻 Leonardo da Silva Souza",
-    apelido: "🏷️ LeoDev",
-    idade: "📅 25 anos | 5 anos de código",
-    localizacao: "📍 São Paulo, Brasil 🇧🇷",
-    code: ["💻 JavaScript", "🐍 Python", "🟢 Node.js", "📘 TypeScript", "⚛️ React"],
-    ferramentas: ["⚛️ React", "🟢 Node.js", "🐳 Docker", "📦 Git", "✏️ VS Code", "🐘 PostgreSQL"],
-    desafioAtual: "☕ Fazer o café durar até o fim do dia",
-    foco: "🎯 Migrar de júnior para pleno ainda em 2026",
-    diversao: ["♟️ Xadrez", "🎸 Violão", "📺 Séries de ficção científica"]
+const eu = { 
+    nome: "🧑‍💻 Leonardo da Silva Souza", 
+    apelido: "🏷️ LeoDev", 
+    idade: "📅 25 anos | 5 anos de código", 
+    localizacao: "📍 São Paulo, Brasil 🇧🇷", 
+    code: ["💻 JavaScript", "🐍 Python", "🟢 Node.js", "📘 TypeScript", "⚛️ React"], 
+    ferramentas: ["⚛️ React", "🟢 Node.js", "🐳 Docker", "📦 Git", "✏️ VS Code", "🐘 PostgreSQL"], 
+    desafioAtual: "☕ Fazer o café durar até o fim do dia", 
+    foco: "🎯 Migrar de júnior para pleno ainda em 2026", 
+    diversao: ["♟️ Xadrez", "🎸 Violão", "📺 Séries de ficção científica"] 
 };
