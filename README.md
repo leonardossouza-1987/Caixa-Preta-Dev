@@ -12,11 +12,11 @@ Aqui você encontrará desde testes bizarros até projetos que (quase) funcionam
 
 ### ⚡ Status Atual
 
-- 🌱 Aprendendo: [Linguagem/Framework que está estudando]
-- 🔭 Trabalhando em: [Nome de um projeto legal]
-- 🤔 Procuro ajuda com: [Algo que você está com dúvida]
-- 💬 Pergunte-me sobre: [Sua especialidade]
-- 📫 Como me achar: [Email ou rede social]
+- 🌱 Aprendendo: [python,node...]
+- 🔭 Trabalhando em: [Um projeto legal]
+- 🤔 Procuro ajuda com: [Novas tecnologias...]
+- 💬 Pergunte-me sobre: [tecnologias]
+- 📫 Como me achar: [cruziliadev@gmail.com]
 
 ## 📊 Estatísticas da Máquina
 
